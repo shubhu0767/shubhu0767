@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhu0767&label=Profile%20views&color=0e75b6&style=flat" alt="shubhu0767" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubhu0767" alt="shubhu0767" /></a> </p>
-
 - 🔭 I’m currently working on [RestoDX](https://www.restodx.com/)
 
 - 💬 Ask me about **JavaScript, React.js**
