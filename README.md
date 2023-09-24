@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shubham Tambwe</h1>
-<h3 align="center">A passionate Frontend Developer who love solve Real-World problems</h3>
+<h3 align="center">A passionate Frontend Developer who love to solve Real-World problems</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhu0767&label=Profile%20views&color=0e75b6&style=flat" alt="shubhu0767" /> </p>
 
